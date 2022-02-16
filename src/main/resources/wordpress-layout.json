@@ -1,0 +1,24 @@
+{
+  "sourceType": "WordPressARP",
+  "metadataRefresh": {
+    "datasetDiscovery": true
+  },
+  "form": {
+    "tabs": [
+      {
+        "name": "General",
+        "isGeneral": true,
+        "sections": [
+          {
+            "name": "WordPress Source",
+            "layout": "row",
+            "elements": [
+                {
+                }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
